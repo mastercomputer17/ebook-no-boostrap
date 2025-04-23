@@ -1,0 +1,56 @@
+iguiente paso: Convertir el archivo HTML a EPUB con Calibre
+Abre Calibre.
+
+Inicia el programa que acabas de instalar.
+
+Agrega tu archivo HTML:
+
+Haz clic en el botón "Añadir libros" (o "Add books") y selecciona tu archivo HTML donde tienes tus recetas.
+
+Configura los metadatos (opcional pero recomendado):
+
+Una vez que hayas añadido el archivo, selecciona el libro en la biblioteca.
+
+Haz clic en "Editar metadatos" y completa los campos:
+
+Título: Nombre del libro (por ejemplo, "Mi Recetario").
+
+Autor: Tu nombre o seudónimo.
+
+Idioma: Español.
+
+Esto asegura que el eBook sea más fácil de encontrar y organizar en lectores electrónicos.
+
+Convierte el HTML a EPUB:
+
+Selecciona tu archivo en la lista de libros.
+
+Haz clic en el botón "Convertir libros".
+
+En el menú que aparece:
+
+Asegúrate de que EPUB esté seleccionado como formato de salida.
+
+Revisa la vista previa de cómo se verá tu libro.
+
+Haz clic en Aceptar para iniciar la conversión.
+
+Guarda el archivo EPUB:
+
+Una vez completada la conversión, haz clic derecho en el libro y selecciona "Abrir carpeta contenedora" para encontrar tu nuevo archivo EPUB.
+
+Convertir a MOBI (para Kindle u otros dispositivos)
+Usa Calibre para la conversión a MOBI:
+
+Después de haber creado tu EPUB, repite el proceso de conversión.
+
+Esta vez selecciona MOBI como formato de salida.
+
+Prueba tu archivo:
+
+Puedes probar el archivo MOBI en un lector de eBooks compatible con Kindle o en la aplicación Kindle de tu dispositivo.
+
+Próximos pasos:
+Revisar el diseño: Asegúrate de que las recetas y el formato sean legibles. Si algo no luce bien, puedes ajustar el HTML/CSS y convertirlo de nuevo.
+
+Publicar o compartir: Puedes subir tu eBook a plataformas como Amazon Kindle, Google Play Books o enviarlo directamente a tus amigos o lectore

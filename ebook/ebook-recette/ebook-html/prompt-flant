@@ -1,0 +1,63 @@
+<div style="padding-top: 90px;"></div>
+        <h2 style="font-size: 30px; font-family: 'pacifico' ;">Chapitre 16 :déjeuners</h2>
+        <article id="audio-section-1" class="my-4">
+            <!-- Audio -->
+            <!--  -->
+            <!--  -->
+            <div class="audio-controls">
+                <span class="icon-button material-icons " id="play-icon-1">volume_up</span>
+                <span class="icon-button material-icons hidden" id="pause-icon-1">pause</span>
+                <audio id="audio1" src="Audio/audio4.mp3"></audio>
+                <input type="range" class="trackbar hidden " id="trackbar-1" value="0" min="0" step="0.1">
+
+            </div>
+
+            <!--  -->
+            <!--  -->
+            <!--  -->
+            <!-- Audio -->
+
+            <div class="row align-items-center">
+
+                <!-- <h3>Pan con queso y mantequilla y chocolate de leche calnecion</h3> -->
+                <h3 style="font-size: 27px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">
+                    Flan de vainilla</h3>
+                <a href="#indice" style="color: rgb(0, 0, 0); font-family: pacifico ; font-size: 35px;">Retour au menu</a>
+                <div class="col-md-6">
+                    <img src="imagenes/flan.png" class="img-fluid img-center" alt="Pan de banana"
+                        style="max-width:100%; height:auto; border-radius: 10px;">
+                </div>
+                <div class="col-md-6">
+
+
+                    <!-- este prom es para ponerlo dentro del programa receta de flan -->
+                     <!-- crea la pagina  Recettes-pour-amateurs.netlify.app-->
+
+                    <h4>Ingredientes:</h4>
+                    <ul>
+                        <li>1 Canette de lait condensé </li>
+                        <li>1 Canette de lait évaporé </li>
+                        <li>6 Oeufs</li>
+                        <li>1 tbsp</li>
+                        <li>3/4 Cup Sucre blanc granulé</li>
+                    </ul>
+                    <h4>Pasos:</h4>
+                    <ol>
+                        <li>Dans le mixeur, mettez les œufs, <br>
+                            lait condensé, le lait évaporé et la vanille. </li>
+
+
+                        <li>dans une petite marmite Ajoutez
+                            le sucre et mélangez pendant 15 minutes
+                            maximum jusqu'à ce qu'il devienne doré, puis
+                            versez-le dans le moule,puis versez également
+                            le mélange que vous avez préparé dans le mixeur. </li>
+
+                        <li>Hornear durante 40 minutos.</li>
+                    </ol>
+
+                </div>
+
+            </div>
+
+        </article>
